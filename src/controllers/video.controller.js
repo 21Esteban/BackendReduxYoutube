@@ -1,4 +1,4 @@
-import { response } from "../helpers/Response.js";
+import { response } from "../helpers/response.js";
 import { videoModel } from "../models/video.model.js";
 
 const videoCtrl = {};
